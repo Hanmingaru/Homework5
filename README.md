@@ -18,6 +18,4 @@ This app allows the user to take a picture and then add changes to the photo on 
 ### App Walkthough GIF
 ![](hw5.gif)
 
-### Notes
-The overall project was smooth from beginning to end, but I had some trouble resizing textviews properly.
 
